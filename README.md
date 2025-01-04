@@ -1,6 +1,6 @@
 # HR-Analytics-Dashboard
 
-!(images/Dashboard.png)
+![Alt Text](https://github.com/Hari-Kypu/HR-Analytics-Dashboard/blob/main/Dashboard.png)
 
 The "HR Analytics Dashboard" project involved a comprehensive analysis of human resources data aimed at understanding employee dynamics and attrition within an organization. Through proficient data analysis in Microsoft Excel, several key insights and visualizations were derived:
 
